@@ -1,2 +1,2 @@
-# MESCIUSJP-inputmanjs-comment-component-with-fastapi
+# inputmanjs-comment-component-with-fastapi
 InputManJSのコメントコンポーネントのバックエンドにFastAPIを使用するサンプルです。
